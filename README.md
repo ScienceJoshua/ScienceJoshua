@@ -11,10 +11,10 @@ in the year 2025 that especially completes research into questions like " What a
  I am interested to learn more about interprocess messaging services.
 
 
-- 💞️ I’m looking to collaborate on mobile application development projects
-- that are related to physical fitness, or project management, and include
-- Machine Learning.
-- 📫 How to reach me ...
++I’m looking to collaborate on mobile application development projects like Swift or others after completing academic items in progress
++ apps that are related to physical fitness, or project management, and include
++ Machine Learning.
+
 - 😄 Pronouns: ...He Him Joshua 
 - ⚡ Fun fact: Arizona is one State that does not believe in Daylight savings time.
 - do you know the other one? :)
